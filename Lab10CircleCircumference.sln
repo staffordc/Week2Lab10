@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry.Library", "Geometry.Library\Geometry.Library.csproj", "{32E91852-8E95-4F99-B62D-9EE20D61188D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab10CircleCircumference", "Lab10CicleCircumference\Lab10CircleCircumference.csproj", "{8EA11C4B-C7FB-4CDB-9896-FED1C3F0E7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32E91852-8E95-4F99-B62D-9EE20D61188D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E91852-8E95-4F99-B62D-9EE20D61188D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E91852-8E95-4F99-B62D-9EE20D61188D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E91852-8E95-4F99-B62D-9EE20D61188D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA11C4B-C7FB-4CDB-9896-FED1C3F0E7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA11C4B-C7FB-4CDB-9896-FED1C3F0E7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA11C4B-C7FB-4CDB-9896-FED1C3F0E7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA11C4B-C7FB-4CDB-9896-FED1C3F0E7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C9F8C56-11B0-44DE-A7A2-D111133699DC}
+	EndGlobalSection
+EndGlobal
